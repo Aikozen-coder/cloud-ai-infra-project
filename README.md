@@ -58,7 +58,7 @@ This project simulates a real-world cloud engineering deployment pipeline.
 
 Public Endpoint:  
 
-http://cloud-ai-xxxxx.westus2.azurecontainer.io
+http://cloud-ai-9e9a8e29.westus2.azurecontainer.io
 
 
 
@@ -256,6 +256,7 @@ This shows real-time container logs.
 \- Add CI/CD pipeline (GitHub Actions)
 
 \- Add autoscaling and load balancing
+
 
 
 
